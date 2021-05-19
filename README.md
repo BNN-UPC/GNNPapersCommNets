@@ -15,11 +15,11 @@ Maintained by Barcelona Neural Networking Center members
 ## Wired networks
  
  - **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.**
-	 ACM SOSR, 2019. [[paper](https://arxiv.org/pdf/1901.08113.pdf)]
+	 ACM SOSR, 2019. [[paper](https://arxiv.org/pdf/1901.08113.pdf)] [[code](https://github.com/BNN-UPC/ignnition/tree/main/examples/Routenet)]
 	 *K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio.*
 	 
  - **Learning and generating distributed routing protocols using graph-based deep learning.** 
-	ACM SIGCOMM BigDAMA workshop, 2018. [[paper](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2018bigdama.pdf)]
+	ACM SIGCOMM BigDAMA workshop, 2018. [[paper](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2018bigdama.pdf)] [[code](https://github.com/BNN-UPC/ignnition/tree/main/examples/Graph_query_networks)]
 	*F. Geyer, G. Carle.*
 	
  - **DeepTMA: Predicting Effective Contention Models for Network Calculus using Graph Neural Networks.**
@@ -29,6 +29,10 @@ Maintained by Barcelona Neural Networking Center members
  - **RouteNet: Leveraging Graph Neural Networks for network modeling and optimization in SDN.**
 	IEEE JSAC, 2020. [[paper](https://arxiv.org/pdf/1910.01508.pdf)]
 	*K. Rusek, J. Suárez-Varela, P. Almasan, P. Barlet-Ros, A. Cabellos-Aparicio.*
+	
+- **Towards more realistic network models based on Graph Neural Networks.**
+	ACM CoNEXT student workshop, 2019. [[paper](https://upcommons.upc.edu/bitstream/handle/2117/190294/paper_CoNEXT_postprint.pdf)] [[code](https://github.com/BNN-UPC/ignnition/tree/main/examples/Q-size)]
+	*A. Badia-Sampera, J. Suárez-Varela, P. Almasan, K. Rusek, P. Barlet-Ros, A. Cabellos-Aparicio.*
 	
  - **Deep Reinforcement Learning meets Graph Neural Networks: Exploring a routing optimization use case.**
 	ArXiv preprint arXiv:1910.07421, 2019 [[paper](https://arxiv.org/pdf/1910.07421.pdf)]
