@@ -14,6 +14,14 @@ Maintained by Barcelona Neural Networking Center members
 
 ## Wired networks
  
+- **ENERO: Efficient Real-Time Routing Optimization.**
+	 ArXiv preprint arXiv:2109.10883, 2021. [[paper](https://arxiv.org/abs/2109.10883)]<br/>	 
+	 *P. Almasan, S. Xiao, X. Cheng, X. Shi, P. Barlet-Ros, A. Cabellos-Aparicio*
+
+ - **Network planning with deep reinforcement learning.**
+	 ACM SIGCOMM, 2021. [[paper](https://dl.acm.org/doi/10.1145/3452296.3472902)] [[code](https://github.com/netx-repo/neuroplan)]<br/>	 
+	 *Hang Zhu, Varun Gupta, Satyajeet Singh Ahuja, Yuandong Tian, Ying Zhang, Xin Jin*
+
  - **Unveiling the potential of Graph Neural Networks for network modeling and optimization in SDN.**
 	 ACM SOSR, 2019. [[paper](https://arxiv.org/pdf/1901.08113.pdf)] [[code](https://github.com/BNN-UPC/ignnition/tree/main/examples/Routenet)]<br/>	 
 	 *K. Rusek, J. Suárez-Varela, A. Mestres, P. Barlet-Ros, A. Cabellos-Aparicio.*
