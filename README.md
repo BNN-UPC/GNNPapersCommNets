@@ -1,7 +1,5 @@
 # Must-read papers on GNN for communication networks
-
-
-Maintained by Barcelona Neural Networking Center members
+Please, feel free to contribute to this list by making a pull request.
 
 ## Content
 <table>
