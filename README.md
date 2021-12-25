@@ -20,6 +20,10 @@ Please, feel free to contribute to this list by making a pull request.
 	ACM SIGCOMM BigDAMA workshop, 2018. [[paper](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2018bigdama.pdf)] [[code](https://github.com/BNN-UPC/ignnition/tree/main/examples/Graph_query_networks)]<br/>	
 	*F. Geyer, G. Carle.*
 	
+ - **Is machine learning ready for traffic engineering optimization?**
+	IEEE International Conference on Network Protocols (ICNP), 2021. [[paper](https://arxiv.org/pdf/2109.01445.pdf)]<br/>	
+	*G. Bernrdez, J. Suárez-Varela, A. López, B. Wu, S. Xiao, X. Cheng, P. Barlet-Ros, and A. Cabellos-Aparicio.*
+	
  - **DeepTMA: Predicting Effective Contention Models for Network Calculus using Graph Neural Networks.**
 	IEEE INFOCOM, 2019. [[paper](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2019infocom.pdf)]<br/>	
 	*F. Geyer, S. Bondorf.*
