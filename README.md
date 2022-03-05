@@ -3,12 +3,26 @@ Please, feel free to contribute to this list by making a pull request.
 
 ## Content
 <table>
-<tr><td><a href="#wired-networks">1-. Wired networks</a></td></tr>
-<tr><td><a href="#wireless-networks">2-. Wireless networks</a></td></tr>
-<tr><td><a href="#job-scheduling-in-data-centers">3-. Job scheduling in data centers</a></td></tr>
-<tr><td><a href="#explainability">4-. Explainability</a></td></tr>
-<tr><td><a href="#surveys-and-other-related-articles">5-. Surveys and other related articles</a></td></tr>
+<tr><td><a href="#surveys-and-related-articles">1-. Surveys and related articles</a></td></tr>
+<tr><td><a href="#wired-networks">2-. Wired networks</a></td></tr>
+<tr><td><a href="#wireless-networks">3-. Wireless networks</a></td></tr>
+<tr><td><a href="#job-scheduling-in-data-centers">4-. Job scheduling in data centers</a></td></tr>
+<tr><td><a href="#explainability">5-. Explainability</a></td></tr>
 </table>
+
+## Surveys and related articles
+
+ - **Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities.**
+	arXiv preprint arXiv:2112.14792, 2021. [[paper](https://arxiv.org/pdf/2112.14792.pdf)]<br/>
+	*J. Suárez-Varela, P. Almasan, M. Ferriol-Galmés, K. Rusek, F. Geyer, X. Cheng, X. Shi, S. Xiao, F. Scarselli, A. Cabellos-Aparicio, P. Barlet-Ros.*
+	
+- **Learning Combinatorial Optimization on Graphs: A Survey With Applications to Networking.**
+	IEEE ACCESS, 2020. [[paper](https://arxiv.org/pdf/2005.11081.pdf)]<br/>
+	N. Vesselinova, R. Steinert, D. Perez-Ramirez, M. Boman.
+
+ - **IGNNITION: A framework for fast prototyping of Graph Neural Networks.**
+	GNNSys workshop, 2021. [[paper](https://gnnsys.github.io/papers/GNNSys21_paper_4.pdf)]<br/>
+	*D. Pujol-Perich, J. Suárez-Varela, M. Ferriol-Galmés, S. Xiao, B. Wu, A. Cabellos-Aparicio, P. Barlet-Ros.*
 
 ## Wired networks
  
@@ -98,13 +112,3 @@ Please, feel free to contribute to this list by making a pull request.
  - **NetXplain: Real-time explainability of Graph Neural Networks applied to Computer Networks.**
 	GNNSys workshop, 2021. [[paper](https://gnnsys.github.io/papers/GNNSys21_paper_7.pdf)]<br/>
 	*D. Pujol-Perich, J. Suárez-Varela, S. Xiao, B. Wu, A. Cabellos-Aparicio, P. Barlet-Ros.*
-	
-## Surveys and other related articles
-
- - **Learning Combinatorial Optimization on Graphs: A Survey With Applications to Networking.**
-	IEEE ACCESS, 2020. [[paper](https://arxiv.org/pdf/2005.11081.pdf)]<br/>
-	N. Vesselinova, R. Steinert, D. Perez-Ramirez, M. Boman.
-
- - **IGNNITION: A framework for fast prototyping of Graph Neural Networks.**
-	GNNSys workshop, 2021. [[paper](https://gnnsys.github.io/papers/GNNSys21_paper_4.pdf)]<br/>
-	*D. Pujol-Perich, J. Suárez-Varela, M. Ferriol-Galmés, S. Xiao, B. Wu, A. Cabellos-Aparicio, P. Barlet-Ros.*
