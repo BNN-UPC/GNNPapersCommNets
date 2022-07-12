@@ -92,6 +92,15 @@ Please, feel free to contribute to this list by making a pull request.
  - **Unsupervised Learning for Asynchronous Resource Allocation in Ad-hoc Wireless Networks.**
 	arXiv preprint arXiv:2011.02644, 2020. [[paper](https://arxiv.org/pdf/2011.02644.pdf)]<br/>
 	*Z. Wang, M. Eisen, A. Ribeiro.*
+	
+- **Graph Attention Spatial-Temporal Network with Collaborative Global-Local Learning for Citywide Mobile Traffic Prediction**
+	IEEE Transactions on Mobile Computing, 2020.
+	*K. He, X. Chen, Q. Wu, S. Yu, Z. Zhou*
+
+- **Channel Estimation for Full-Duplex RIS-assisted HAPS Backhauling with Graph Attention Networks**
+	IEEE International Conference on Communications, 2021.
+	*K. Tekbıyık, G. K. Kurt, C. Huang, A. R. Ekti, H. Yanikomeroglu.*	
+	
 
 ## Job scheduling in data centers
 
