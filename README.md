@@ -13,9 +13,13 @@ Please, feel free to contribute to this list by making a pull request.
 ## Surveys and related articles
 
  - **Graph Neural Networks for Communication Networks: Context, Use Cases and Opportunities.**<br/>
-	IEEE Network, 2022. [[DOI](https://doi.org/10.1109/MNET.123.2100773)] [[paper](https://arxiv.org/abs/2112.14792)]<br/>
+	IEEE Network, 2021. [[DOI](https://doi.org/10.1109/MNET.123.2100773)] [[ArXiv](https://arxiv.org/abs/2112.14792)]<br/>
 	*J. Suárez-Varela, P. Almasan, M. Ferriol-Galmés, K. Rusek, F. Geyer, X. Cheng, X. Shi, S. Xiao, F. Scarselli, A. Cabellos-Aparicio, P. Barlet-Ros.*
 	
+- **Graph-based Deep Learning for Communication Networks: A Survey.**<br/> 
+	Elsevier Computer Communications, 2021. [[DOI](https://doi.org/10.1016/j.comcom.2021.12.015)]<br/>
+	*Jiang W.*
+
 - **Learning Combinatorial Optimization on Graphs: A Survey With Applications to Networking.**<br/>
 	IEEE ACCESS, 2020. [[paper](https://arxiv.org/pdf/2005.11081.pdf)]<br/>
 	N. Vesselinova, R. Steinert, D. Perez-Ramirez, M. Boman.
